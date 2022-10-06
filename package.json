@@ -1,0 +1,32 @@
+{
+  "name": "es6-basis",
+  "type": "commonjs",
+  "version": "1.0.0",
+  "description": "learing project for es6 syntax",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stefania20/es6-basis.git"
+  },
+  "keywords": [
+    "es6",
+    "arreglos",
+    "funciones"
+  ],
+  "author": "stefania chumbe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stefania20/es6-basis/issues"
+  },
+  "homepage": "https://github.com/Stefania20/es6-basis#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
